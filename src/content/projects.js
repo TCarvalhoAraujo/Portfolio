@@ -20,7 +20,7 @@ const projects = [
     picture: "./img/game.jpg",
     content: "A number guessing game! Nothing more! Give it a try!",
     competence: "Javascript",
-    link: "/game",
+    link: "https://web-portfolio-thiago-araujo.vercel.app/game",
   },
 ];
 
